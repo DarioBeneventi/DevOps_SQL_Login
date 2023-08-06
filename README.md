@@ -1,3 +1,3 @@
 # DevOps
 
-This repository contains the code of a web app created for the DevOps labs at Odisee 
+This repository contains the code of a SQL login page created for the DevOps labs at Odisee.
