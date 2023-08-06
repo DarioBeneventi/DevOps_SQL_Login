@@ -1,2 +1,3 @@
 # DevOps
-Repository with all the code used for the DevOps labs
+
+This repository contains the code of a web app used for the DevOps labs at Odisee 
