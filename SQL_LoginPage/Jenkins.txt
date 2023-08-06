@@ -15,10 +15,10 @@ Jenkins kali linux password:
 63ece3870d15410cb9eb5e00cf81f8b1
 
 Admin user:
-username: maxim
+username: adminD
 password: 123
-fullname: maxim
-email: maxim.cirnici@student.odisee.be
+fullname: adminD
+email: dario.beneventi@student.odisee.be
 
 
 Jenkins Commando:
